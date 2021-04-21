@@ -7,4 +7,9 @@ In this package, we show how to encrypt the Python source code for distribution.
 - `PyTorch`
 - Custom class
 
-We also include 
+We also include the following patterns for encryption
+
+- bash script (in `bin/`)
+- submodules
+
+Have fun coding!

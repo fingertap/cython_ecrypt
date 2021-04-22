@@ -1,2 +1,2 @@
-from .enc_numpy import test
+from cython_encrypt.enc_numpy import test
 

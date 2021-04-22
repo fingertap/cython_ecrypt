@@ -7,7 +7,7 @@ In this package, we show how to encrypt the Python source code for distribution.
 
 **_NOTE: _** `Cython` does not support relative imports, so you should always use absolute imports in your package. See `cython_encrypt/enc_local_import.py` for example.
 
-**_NOTE: _** `Cython` does not keep the structure of modules (no need for `__init__.py`). All of the 
+**_NOTE: _** `Cython` does not keep the structure of modules (no need for `__init__.py`). To import the module, treat the module as a bunch of files located in a same directory.
 
 We include these frequently used packages:
 

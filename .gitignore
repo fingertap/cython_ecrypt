@@ -4,3 +4,5 @@
 __py_cache__/
 *.egg-info/
 dist/
+*.c
+build/
